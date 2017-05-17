@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": "VALIDATION_ERROR",
+    "description": "client_id or client_secret parameters not found. Make sure to provide client_id and client_secret in the body with the application/x-www-form-urlencoded content-type"
+  }
+}
